@@ -6,11 +6,9 @@ Repositório acadêmico da disciplina **Sistemas Automatizados**, 3º semestre d
 
 ## Dados do aluno
 
-| Campo   | Valor                      |
-|--------|----------------------------|
-| Nome   | André Luis Tres Guerlando  |
-| RA     | 826179780                  |
-| Curso  | Engenharia de Software     |
+ Nome:    André Luis Tres Guerlando  
+ RA:      826179780                  
+ Curso:   Engenharia de Software     
 
 ---
 
@@ -26,5 +24,5 @@ Documentar e versionar as atividades acadêmicas da disciplina, incluindo entreg
 .
 ├── README.md
 ├── docs/          # Documentação e anotações
-└── atividades/    # Atividades e entregas (PDFs, códigos, etc.)
+└── atividades/    # Atividades e entregas (PDF)
 ```

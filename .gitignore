@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python (if used later)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Build / Temp
+*.log
+*.tmp
+.cache/
+
+# Optional: uncomment if you don't want to track large binaries
+# *.pdf

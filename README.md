@@ -14,7 +14,7 @@ Repositório acadêmico da disciplina **Sistemas Automatizados**, 3º semestre d
 
 ## Objetivo do repositório
 
-Documentar e versionar as atividades acadêmicas da disciplina, incluindo entregas, exercícios e materiais de apoio, de forma organizada e rastreável.
+Documentar e versionar as atividades acadêmicas da disciplina, incluindo entregas e exercícios de forma organizada.
 
 ---
 

@@ -1,5 +1,6 @@
 # Sistemas Automatizados
 
+Faculdade São Judas - Campus Butantã
 Repositório acadêmico da disciplina **Sistemas Automatizados**, 3º semestre do curso de **Engenharia de Software**.
 
 ---
@@ -8,7 +9,8 @@ Repositório acadêmico da disciplina **Sistemas Automatizados**, 3º semestre d
 
  Nome:    André Luis Tres Guerlando  
  RA:      826179780                  
- Curso:   Engenharia de Software     
+ Curso:   Engenharia de Software
+ Período: Noturno     
 
 ---
 
